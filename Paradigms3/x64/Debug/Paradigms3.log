@@ -1,3 +1,4 @@
 ﻿  Paradigms3.cpp
 C:\Users\Давід\source\repos\Paradigms3\Paradigms3\Paradigms3.cpp(15,47): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Давід\source\repos\Paradigms3\Paradigms3\Paradigms3.cpp(33,47): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
   Paradigms3.vcxproj -> C:\Users\Давід\source\repos\Paradigms3\x64\Debug\Paradigms3.exe
